@@ -1,1 +1,1 @@
-# repogood
+# repogood is good
